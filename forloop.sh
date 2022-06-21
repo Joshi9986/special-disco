@@ -1,5 +1,5 @@
 #!/bin/bash
-#wrie a script 
+#wrie a script a 
 count=0
 num="10 20 30 40"
 for i in $num 
